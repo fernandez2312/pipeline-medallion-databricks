@@ -40,7 +40,7 @@ O ecossistema de dados foi estruturado em três camadas lógicas dentro do Unity
 ---
 
 ## 📈 Resultados e Insights Visualizados
-
+<img width="1366" height="768" alt="img" src="https://github.com/user-attachments/assets/b4cf6d5a-30d1-4a2b-a170-174c4aa341f1" />
 O pipeline consolida os indicadores cruciais de performance de produto, permitindo que a gestão identifique imediatamente quais itens geram maior receita para a operação do e-commerce, conforme ilustrado no gráfico de barras gerado de forma nativa no ambiente Databricks.
 
 ---
