@@ -1,8 +1,8 @@
 # 🛒 Pipeline de Dados E-commerce: Arquitetura Medallion com Databricks e PySpark
 
-[![Databricks](https://shields.io)](https://databricks.com)
-[![PySpark](https://shields.io)](https://apache.org)
-[![Delta Lake](https://shields.io)](https://delta.io)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![PySpark](https://img.shields.io/badge/Apache,_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD8?style=for-the-badge&logo=delta-lake&logoColor=white)
 
 ## 📝 Descrição do Projeto
 Este projeto demonstra a implementação de um pipeline de engenharia de dados ponta a ponta utilizando a arquitetura **Medallion (Bronze, Silver e Gold)**. O objetivo principal é extrair inteligência de negócio a partir de um conjunto de dados reais de e-commerce, identificando os produtos líderes em faturamento e volume de vendas.
